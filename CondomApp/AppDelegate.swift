@@ -1,10 +1,9 @@
-//
-//  AppDelegate.swift
-//  CondomApp
-//
-//  Created by Xavier De Koninck on 12/01/2016.
-//  Copyright © 2016 PagesJaunes. All rights reserved.
-//
+/*
+* Copyright (C) PagesJaunes, SoLocal Group - All Rights Reserved.
+*
+* Unauthorized copying of this file, via any medium is strictly prohibited.
+* Proprietary and confidential.
+*/
 
 import UIKit
 
